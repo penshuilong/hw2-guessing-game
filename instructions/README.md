@@ -1,4 +1,4 @@
-# HW Instructions
+# Homework 02 - Guessing Game Instructions
 
 👉🏽 **Task**
 

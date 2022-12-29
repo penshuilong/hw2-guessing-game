@@ -1,4 +1,4 @@
-# HW README
+# Homework 02 - Guessing Game
 
 Name:
 
