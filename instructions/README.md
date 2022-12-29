@@ -2,6 +2,63 @@
 
 👉🏽 **Task**
 
+### Sample Game Output
+```console
+> clang -Wall game_main.c -o game.out
+> ./game.out 
+====================================================
+| Welcome to the Guessing Game. Let's get started. |
+====================================================
+====================================================
+|                     Round 1                      |
+====================================================
+Guess a number (1 to 10): 4
+Congratulations, you found it!
+====================================================
+|                     Round 2                      |
+====================================================
+Guess a number (1 to 10): 10
+Your guess is too high.
+Guess a number (1 to 10): 5
+Your guess is too low.
+Guess a number (1 to 10): 7
+Congratulations, you found it!
+====================================================
+|                     Round 3                      |
+====================================================
+Guess a number (1 to 10): 5
+Your guess is too low.
+Guess a number (1 to 10): 8
+Congratulations, you found it!
+====================================================
+|                     Round 4                      |
+====================================================
+Guess a number (1 to 10): 55
+Your guess is too high.
+Guess a number (1 to 10): 5
+Your guess is too low.
+Guess a number (1 to 10): 8
+Your guess is too high.
+Guess a number (1 to 10): 7
+Your guess is too high.
+Guess a number (1 to 10): 6
+Congratulations, you found it!
+====================================================
+|                     Round 5                      |
+====================================================
+Guess a number (1 to 10): 4
+Congratulations, you found it!
+====================================================
+|              Results of the Rounds!              |
+====================================================
+Round 1 took you 1 guesses.
+Round 2 took you 3 guesses.
+Round 3 took you 2 guesses.
+Round 4 took you 5 guesses.
+Round 5 took you 1 guesses.
+```
+
+
 ## 📝 Grading Rubric
 
 
