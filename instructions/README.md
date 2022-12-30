@@ -127,7 +127,9 @@ You will submit to gradescope via it pulling from your Github repository generat
 gradescope doesn't auto pull. If you make an update, and already submitted to gradescope you will need to go into gradescope and resubmit. 
 
 
-
+### Instruction Home
+Please note, if you are viewing these instructions in your repository copy, it is possible for your local copy to be out of sync with the official instructions. 
+Double check instructions by going to: [HW 2 - Instructions](https://github.com/Spring23-CS5008-BOS-Lionelle/hw2-guessing-game/tree/main/instructions)
 
 ## 📚 Resources
 * [clang compiler](https://clang.llvm.org/)
