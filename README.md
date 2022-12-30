@@ -18,8 +18,21 @@ Did you use any external resources (you do not have to cite in class material)? 
 
 (Optional) How would you improve the assignment? 
 
-## Questions Answers (change to better heading)
+## Please responds to the following questions
 
+1. In the *worst* case, how many guesses would our guessing game take to get the right answer if we had no hints at all?
+
+
+
+
+
+2. In the *worst* case, how many guesses does it take to get the right number if we get a hint of "higher or lower" when guessing numbers 1-10 and guess intelligently (always picking in the middle of the remaining set of numbers)?
+Hint: In your answer, show this mathematically with the [log function](https://www.mathsisfun.com/algebra/logarithms.html).
+
+
+
+
+If you have questions about how to how to talk about this worst case, check out Chapter 1 of [Grokking Algorithms](https://www.oreilly.com/library/view/grokking-algorithms/9781617292231/).  (see the syllabus for how to log on to O'Reilly Online for free). You only need to read the first half of the chapter to understand the reason for the maximum number of guesses; the second half of the chapter is useful, but we won't talk about big O notation and running time until next week. 
 
 ## Important notes
 
