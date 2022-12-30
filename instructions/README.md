@@ -110,6 +110,7 @@ to set the random to not be as random.
    * Program runs with a variety of input, showing proper output based on everything submitted. 
 4. Exceeds  (MG)
    * README.md updated (including sources cited)
+     * Answers questions correctly.
    * Student followed single(ish) task per function design principle 
    * Student made and documented unit tests
    * Code fully documented and easy to follow (including header portion with student names)
