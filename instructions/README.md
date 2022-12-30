@@ -133,6 +133,7 @@ gradescope doesn't auto pull. If you make an update, and already submitted to gr
 * [gcc compiler](https://www.gnu.org/software/gcc/)
 * [Tutorials Point: C rand()](https://www.tutorialspoint.com/c_standard_library/c_function_rand.htm)
 * [Tutorials Point: C printf()](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm)
+* [Learn C Interactive Tutorial](http://www.learn-c.org/)
 
 ### Github Commit Guide
 Assignment work flow tends to be similar to the following:
