@@ -1,10 +1,12 @@
 # Homework 02 - Guessing Game
 
 Name:
+Zhao Zefeng
 
-Github Account name: 
+Github Account name: penshuilong
 
 How many hours did it take you to complete this assignment (estimate)? 
+12hours
 
 Did you collaborate with any other students/TAs/Professors? If so, tell us who and in what capacity.  
 - one per row, add more if needed
@@ -12,7 +14,9 @@ Did you collaborate with any other students/TAs/Professors? If so, tell us who a
 
 Did you use any external resources (you do not have to cite in class material)? (Cite them below)  
 - one row per resource
-
+CSDN
+MOOC
+BILIBILI
 
 (Optional) What was your favorite part of the assignment? 
 
@@ -21,7 +25,7 @@ Did you use any external resources (you do not have to cite in class material)? 
 ## Please responds to the following questions
 
 1. In the *worst* case, how many guesses would our guessing game take to get the right answer if we had no hints at all?
-
+10
 
 
 
